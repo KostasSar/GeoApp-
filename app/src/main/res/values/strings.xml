@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CroudSourceLocations</string>
+    <string name="id_display">ID Display</string>
+    <string name="user_id_display">User ID Display</string>
+    <string name="longitude_display">Longitude Display</string>
+    <string name="latitude_display">Latitude Display</string>
+    <string name="timestamp_display">TimeStamp Display</string>
+</resources>
